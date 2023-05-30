@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoroger25/)
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/notfakeroger_?utm_source=linktree_profile_share&ltsid=f3dcc509-3d3d-4bca-a0b4-8969726321a3)
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=notfakeroger&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notfakeroger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=notfakeroger&show_icons=true&theme=blue-green) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notfakeroger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies I usually use:
 
