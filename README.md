@@ -19,7 +19,7 @@
 ### Technologies I'm currently studying:
 
 <div style="display: inline_block"><br/>
-  <p>I am currently enrolled on Udemy in an associate degree studying all these technologies:</p>
+  <p>I am currently studying all these technologies:</p>
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </div><br/>
